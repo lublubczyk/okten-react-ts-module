@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react"
+
 import { IProducts } from "../../interfaces"
 import { Product } from "../Product";
 
-
 const Products = () => {
+    
     const [products, setProducts] = useState<IProducts | null>(null);
 
     useEffect(() => {
