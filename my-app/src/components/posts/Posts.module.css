@@ -1,0 +1,10 @@
+.posts {
+    width: calc(50% - 24px);
+    border: 2px solid;
+    margin: 10px;
+    min-height: 200px;
+}
+.title{
+    margin: 10px;
+    text-align: center;
+}
