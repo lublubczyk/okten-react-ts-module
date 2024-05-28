@@ -1,0 +1,11 @@
+.header{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: larger;
+    font-style: italic;
+}
+.header a[class='active']{
+    color: blue;
+}

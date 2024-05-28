@@ -1,0 +1,10 @@
+.IterateData{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post{
+    width: calc(20% - 8px);
+    margin: 4px;
+    text-align: center;
+}
